@@ -40,7 +40,7 @@ This dashboard supports finance teams and project managers by providing a clear,
   - Numbers formatted in kCNY for easier reading.
  
 
-How to Run the Dashboard
+# How to Run the Dashboard
 
 1. Clone the repository
    
@@ -63,7 +63,7 @@ How to Run the Dashboard
   👉 http://127.0.0.1:8050/
 
 
-Project Structure
+# Project Structure
 
 Project-PnL-Dashboard/
 
