@@ -60,7 +60,7 @@ This dashboard supports finance teams and project managers by providing a clear,
 
 
   The dashboard will start at:
-  👉 http://127.0.0.1:8050/
+  👉 http://127.0.0.1:8080/
 
 
 ## Project Structure
