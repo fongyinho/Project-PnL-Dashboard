@@ -1,4 +1,4 @@
-Project P&L Dashboard
+## Project P&L Dashboard
 
 A financial performance dashboard built using Python, Plotly, and Dash for analysing project-level P&L, including revenue, budget, actual spending, and trend analytics.
 This dashboard supports finance teams and project managers by providing a clear, interactive overview of profitability and cost structure.
