@@ -652,4 +652,5 @@ def update_matrix(project_id):
     return data, columns, style_cell, style_cell_conditional, style_header_conditional
 
 if __name__ == "__main__":
-    app.run(port=8080, debug=True)
+    app.run(port=8080, debug=False)
+
