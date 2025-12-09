@@ -40,7 +40,7 @@ This dashboard supports finance teams and project managers by providing a clear,
   - Numbers formatted in kCNY for easier reading.
  
 
-# How to Run the Dashboard
+## How to Run the Dashboard
 
 1. Clone the repository
    
@@ -63,27 +63,17 @@ This dashboard supports finance teams and project managers by providing a clear,
   👉 http://127.0.0.1:8050/
 
 
-# Project Structure
+## Project Structure
 
 Project-PnL-Dashboard/
 
 │
 
-├── app.py                 # Main Dash application
+├── app.py               
 
-├── data/
+├── EXCEL_BI_ALLDATA.xlsx
 
-│   └── sample_PnL.xlsx    # Depersonalized sample dataset
+├── requirements.txt    
 
-│
-
-├── assets/
-
-│   └── styles.css         # Custom CSS (optional)
-
-│
-
-├── requirements.txt       # Python dependencies
-
-└── README.md              # Project documentation
+└── README.md            
 
